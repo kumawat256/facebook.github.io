@@ -1,0 +1,15 @@
+PHP Tutorial
+
+----******-------Interface----******-------
+-> interface mai properties nhi hoti hai 
+-> constants ho sakte hai 
+-> sabhi methods public hona jaruri hai 
+-> sabhi methods ki body nhi hoti hai
+-> interface classes ke saath ek aisa contract hai jisko class mai implement karna jaruri hai 
+
+
+----******-------Traits----******-------
+
+-> Traits mai properties and constant dono ho sakte hai
+-> sabhi methods and properties public hona jaruri nhi hai 
+-> 
